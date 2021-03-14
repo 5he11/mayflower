@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/openzeppelin-contracts-2.5.1/.circleci
+/openzeppelin-contracts-2.5.1/.dependabot
+/openzeppelin-contracts-2.5.1/.github
+/openzeppelin-contracts-2.5.1/.vs
